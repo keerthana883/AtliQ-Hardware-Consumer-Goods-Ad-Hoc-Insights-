@@ -4,7 +4,7 @@ Welcome to the Consumer Goods Ad-Hoc Insights Project! This project dives deep i
 
 live dashboard link: 
 
-(https://app.powerbi.com/view?r=eyJrIjoiMTdhNmE3OWYtZjE2Mi00ZWI3LTg4NjYtNTA3NGJlMDNjZDk1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
+[Ad hoc analysis report](https://app.powerbi.com/view?r=eyJrIjoiMTdhNmE3OWYtZjE2Mi00ZWI3LTg4NjYtNTA3NGJlMDNjZDk1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
 
 🎯 Project Objectives
 
