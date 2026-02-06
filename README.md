@@ -2,6 +2,10 @@ Overview
 
 Welcome to the Consumer Goods Ad-Hoc Insights Project! This project dives deep into consumer goods data, providing actionable insights that can help businesses make data-driven decisions. Using SQL, we analyzed multiple aspects of sales, product performance, customer behavior, and market trends to drive strategic decisions.
 
+live dashboard link: 
+
+https://app.powerbi.com/view?r=eyJrIjoiMTdhNmE3OWYtZjE2Mi00ZWI3LTg4NjYtNTA3NGJlMDNjZDk1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true
+
 🎯 Project Objectives
 
 🔍 Analyze sales data to uncover trends in unique product performance and customer behavior. 
