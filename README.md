@@ -8,10 +8,10 @@ https://app.powerbi.com/view?r=eyJrIjoiMTdhNmE3OWYtZjE2Mi00ZWI3LTg4NjYtNTA3NGJlM
 
 🎯 Project Objectives
 
-🔍 Analyze sales data to uncover trends in unique product performance and customer behavior. 
-📈 Identify the best-performing products and understand market dynamics. 
-💡 Provide insights into sales strategy, channel effectiveness, and cost management. 
-📊 Present key metrics with visualizations to guide business decisions.
+1.🔍 Analyze sales data to uncover trends in unique product performance and customer behavior. 
+2.📈 Identify the best-performing products and understand market dynamics. 
+3.💡 Provide insights into sales strategy, channel effectiveness, and cost management. 
+4.📊 Present key metrics with visualizations to guide business decisions.
 
 📑 Data Sources
 The following tables were used to perform the analysis:
@@ -29,16 +29,16 @@ The following tables were used to perform the analysis:
 𝗳𝗮𝗰𝘁_𝗽𝗿𝗲_𝗶𝗻𝘃𝗼𝗶𝗰𝗲_𝗱𝗲𝗱𝘂𝗰𝘁𝗶𝗼𝗻𝘀: Discount percentage data for customers before invoicing.
 
 📊 Key Insights & Questions Answered
-🌍 𝗠𝗮𝗿𝗸𝗲𝘁 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: Which markets does "Atliq Exclusive" operate in within the APAC region?
-📅 𝗬𝗲𝗮𝗿-𝗼𝘃𝗲𝗿-𝗬𝗲𝗮𝗿 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗚𝗿𝗼𝘄𝘁𝗵: How did the number of unique products increase from 2020 to 2021?
-📈 𝗦𝗲𝗴𝗺𝗲𝗻𝘁 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗖𝗼𝘂𝗻𝘁: Which segments had the most unique products? Sorted by product counts.
-🔼 𝗦𝗲𝗴𝗺𝗲𝗻𝘁 𝗚𝗿𝗼𝘄𝘁𝗵 𝗖𝗼𝗺𝗽𝗮𝗿𝗶𝘀𝗼𝗻: Which segments saw the biggest increase in unique products from 2020 to 2021?
-💵 𝗖𝗼𝘀𝘁 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: Which products have the highest and lowest manufacturing costs?
-💸 𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: Which top 5 customers in India got the highest pre-invoice discount in FY 2021?
-📅 𝗚𝗿𝗼𝘀𝘀 𝗦𝗮𝗹𝗲𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: What were the gross sales for "Atliq Exclusive" each month?
-🔢 𝗤𝘂𝗮𝗿𝘁𝗲𝗿𝗹𝘆 𝗦𝗮𝗹𝗲𝘀 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲: Which quarter of 2020 saw the highest total sold quantity?
-🏆 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: Which channel contributed the most to gross sales in FY 2021?
-🔝 𝗧𝗼𝗽 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝘀 𝗶𝗻 𝗘𝗮𝗰𝗵 𝗗𝗶𝘃𝗶𝘀𝗶𝗼𝗻: What were the top 3 products with the highest sales in each division for FY 2021?
+1.🌍 𝗠𝗮𝗿𝗸𝗲𝘁 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: Which markets does "Atliq Exclusive" operate in within the APAC region?
+2.📅 𝗬𝗲𝗮𝗿-𝗼𝘃𝗲𝗿-𝗬𝗲𝗮𝗿 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗚𝗿𝗼𝘄𝘁𝗵: How did the number of unique products increase from 2020 to 2021?
+3.📈 𝗦𝗲𝗴𝗺𝗲𝗻𝘁 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗖𝗼𝘂𝗻𝘁: Which segments had the most unique products? Sorted by product counts.
+4.🔼 𝗦𝗲𝗴𝗺𝗲𝗻𝘁 𝗚𝗿𝗼𝘄𝘁𝗵 𝗖𝗼𝗺𝗽𝗮𝗿𝗶𝘀𝗼𝗻: Which segments saw the biggest increase in unique products from 2020 to 2021?
+5.💵 𝗖𝗼𝘀𝘁 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: Which products have the highest and lowest manufacturing costs?
+6.💸 𝗗𝗶𝘀𝗰𝗼𝘂𝗻𝘁 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: Which top 5 customers in India got the highest pre-invoice discount in FY 2021?
+7.📅 𝗚𝗿𝗼𝘀𝘀 𝗦𝗮𝗹𝗲𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: What were the gross sales for "Atliq Exclusive" each month?
+8.🔢 𝗤𝘂𝗮𝗿𝘁𝗲𝗿𝗹𝘆 𝗦𝗮𝗹𝗲𝘀 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲: Which quarter of 2020 saw the highest total sold quantity?
+9.🏆 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: Which channel contributed the most to gross sales in FY 2021?
+10.🔝 𝗧𝗼𝗽 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝘀 𝗶𝗻 𝗘𝗮𝗰𝗵 𝗗𝗶𝘃𝗶𝘀𝗶𝗼𝗻: What were the top 3 products with the highest sales in each division for FY 2021?
 
 
 ✨ Conclusion
