@@ -30,7 +30,8 @@ The following tables were used to perform the analysis:
 
 📊 Key Insights & Questions Answered
 
-1.🌍 𝗠𝗮𝗿𝗸𝗲𝘁 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: Which markets does "Atliq Exclusive" operate in within the APAC region?                                                                                                                                                                                                                                                      
+1.🌍 𝗠𝗮𝗿𝗸𝗲𝘁 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: Which markets does "Atliq Exclusive" operate in within the APAC region?                                                                                  
+
 2.📅 𝗬𝗲𝗮𝗿-𝗼𝘃𝗲𝗿-𝗬𝗲𝗮𝗿 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗚𝗿𝗼𝘄𝘁𝗵: How did the number of unique products increase from 2020 to 2021?
 
 3.📈 𝗦𝗲𝗴𝗺𝗲𝗻𝘁 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗖𝗼𝘂𝗻𝘁: Which segments had the most unique products? Sorted by product counts.
