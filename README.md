@@ -4,7 +4,10 @@ Welcome to the Consumer Goods Ad-Hoc Insights Project! This project dives deep i
 
 🎯 Project Objectives
 
-🔍 Analyze sales data to uncover trends in unique product performance and customer behavior. 📈 Identify the best-performing products and understand market dynamics. 💡 Provide insights into sales strategy, channel effectiveness, and cost management. 📊 Present key metrics with visualizations to guide business decisions.
+🔍 Analyze sales data to uncover trends in unique product performance and customer behavior. 
+📈 Identify the best-performing products and understand market dynamics. 
+💡 Provide insights into sales strategy, channel effectiveness, and cost management. 
+📊 Present key metrics with visualizations to guide business decisions.
 
 📑 Data Sources
 The following tables were used to perform the analysis:
